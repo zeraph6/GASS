@@ -17,7 +17,7 @@ In this survey, we undertake a thorough evaluation of ten state-of-the-art in-me
 |  SPTAG-KDT  |  [ACM MM'2012](https://dl.acm.org/doi/abs/10.1145/2393347.2393378); [CVPR'2012](https://ieeexplore.ieee.org/abstract/document/6247790); [TPAMI'2014](https://ieeexplore.ieee.org/abstract/document/6549106)  | [C++](https://github.com/microsoft/SPTAG) |
 |  SPTAG-BKT  | [ACM MM'2012](https://dl.acm.org/doi/abs/10.1145/2393347.2393378); [CVPR'2012](https://ieeexplore.ieee.org/abstract/document/6247790); [TPAMI'2014](https://ieeexplore.ieee.org/abstract/document/6549106) | [C++](https://github.com/microsoft/SPTAG) |
 |  HCNNG      |  [PR'2019](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302730)  |[C++](https://github.com/Lsyhprum/WEAVESS) |
-|  ELPIS      |  [VLDB'2023](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)  |[C++]([https://github.com/Lsyhprum/WEAVESS](https://helios2.mi.parisdescartes.fr/~themisp/elpis/data/elpis-sourcecode.zip)|
+|  ELPIS      |  [VLDB'2023](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)  |[C++](https://helios2.mi.parisdescartes.fr/~themisp/elpis/data/elpis-sourcecode.zip)|
 
 
 
