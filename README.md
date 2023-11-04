@@ -62,7 +62,7 @@ Where:
 To output the ND pruning ratio during graph construction, uncomment the definition `STATSND` in `./include/PTK.h` lines 12, 13, 14.
 
 #### Construction NDC
-To output the number of distance calculations during indexing, uncomment the definition `DC_IDX` macro in `./include/PTK.h` lines 8, 9, 10.
+To output the number of distance calculations during indexing, uncomment the definition `DC_IDX` in `./include/PTK.h` lines 8, 9, 10.
 
 ### Search
 ```shell
