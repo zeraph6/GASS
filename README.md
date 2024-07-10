@@ -1,3 +1,4 @@
+ <meta name="robots" content="noindex">
 # Graph-Based Vector Similarity Search: An Experimental Evaluation of the State-of-the-Art
 
 ## Introduction
